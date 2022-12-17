@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91296402-95ff-4cf8-9251-3d375f957306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/code/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Graph/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/DynamicProgramming/LCS/LongestPalindromicSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/DynamicProgramming/LCS/LongestPalindromicSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Programming/DynamicProgramming/DS&Algorithm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Programming/DynamicProgramming/DS&amp;Algorithm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LongestPalindromicSubsequence">
-    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.LCS.LongestCommonSubsequence" />
+}</component>
+  <component name="RunManager" selected="Application.Graph">
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.Graph.Graph" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.LCS.*" />
+          <option name="PATTERN" value="com.code.Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.LongestPalindromicSubsequence" />
         <item itemvalue="Application.com.code.DynamicProgramming.LCS.LongestCommonSubstring" />
         <item itemvalue="Application.com.code.DynamicProgramming.LCS.LongestCommonSubsequence" />
         <item itemvalue="Application.LongestCommonSubstring" />
-        <item itemvalue="Application.LongestCommonSubsequence" />
       </list>
     </recent_temporary>
   </component>
