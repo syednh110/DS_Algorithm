@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91296402-95ff-4cf8-9251-3d375f957306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/code/DynamicProgramming/MCM/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/Graph/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/DeleteKthElementFromStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/Recursion/SortStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/code/Graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Graph/Graph.java" afterDir="false" />
     </list>
@@ -39,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Programming/DynamicProgramming/DS&amp;Algorithm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Graph">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.code.Graph.Graph" />
       <module name="DS&amp;Algorithm" />
@@ -53,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.LCS.LongestCommonSubstring" />
+    <configuration name="LongestPalindromicSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.DynamicProgramming.LCS.LongestPalindromicSubsequence" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.LCS.*" />
+          <option name="PATTERN" value="com.code.DynamicProgramming.LCS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.DynamicProgramming.LCS.LongestPalindromicSubsequence" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.Recursion.Main" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.DynamicProgramming.LCS.*" />
+          <option name="PATTERN" value="com.code.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.LongestPalindromicSubsequence" />
         <item itemvalue="Application.com.code.DynamicProgramming.LCS.LongestCommonSubstring" />
         <item itemvalue="Application.com.code.DynamicProgramming.LCS.LongestCommonSubsequence" />
-        <item itemvalue="Application.LongestCommonSubstring" />
       </list>
     </recent_temporary>
   </component>
