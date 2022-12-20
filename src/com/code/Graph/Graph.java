@@ -33,6 +33,17 @@ public class Graph {
             addAdjList(adjList,u,v);
         }
         printGraph(adjList);
+
+        //Implementation of BFS
+        BFS bfs = new BFS();
+        int scr = scanner.nextInt();
+        int des = scanner.nextInt();
+        int[] pred = new int[vertix+1];
+        int[]  dist = new int[vertix+1];
+        boolean flag = bfs.findBFS(adjList,scr,des,vertix,pred,dist);
+        if(flag){
+            System.out.println(dist[des]);
+        }
     }
 
     private static void addAdjList(List<ArrayList<Integer>> adjList, int u, int v) {
