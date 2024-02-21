@@ -1,4 +1,4 @@
-package com.code.DynamicProgramming.LCS;
+package com.code.dynamicprogramming.lcs;
 
 import java.util.Arrays;
 

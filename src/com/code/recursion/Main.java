@@ -1,6 +1,5 @@
-package com.code.Recursion;
+package com.code.recursion;
 
-import java.util.Scanner;
 import java.util.Stack;
 
 public class Main {

@@ -1,4 +1,4 @@
-package com.code.DynamicProgramming.LCS;
+package com.code.dynamicprogramming.lcs;
 
 public class LongestPalindromicSubsequence {
     static int[][] dp = new int[1000][1000];

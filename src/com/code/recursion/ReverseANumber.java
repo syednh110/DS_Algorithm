@@ -1,4 +1,4 @@
-package com.code.Recursion;
+package com.code.recursion;
 
 public class ReverseANumber {
 

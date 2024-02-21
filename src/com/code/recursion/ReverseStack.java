@@ -1,18 +1,19 @@
-package com.code.Recursion;
+package com.code.recursion;
 
 import java.util.Stack;
 
-public class SortStack {
-    public void getSortedStack(Stack<Integer> stack){
+public class ReverseStack {
+
+    public void getReverseStack(Stack<Integer> stack){
         if(!stack.empty()){
             int temp = stack.pop();
-            getSortedStack(stack);
+            getReverseStack(stack);
             insertElementInStack(stack,temp);
         }
     }
 
     private void insertElementInStack(Stack<Integer> stack, int temp) {
-        if(stack.empty() || stack.peek() < temp){
+        if(stack.empty()){
             stack.push(temp);
             return;
         }
