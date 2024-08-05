@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91296402-95ff-4cf8-9251-3d375f957306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/code/binarysearch/FindSmallestElementInSortedRotArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/interview/EmployeeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/interview/StrinConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/AccoiliteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/RUnPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/WalletService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/NQueenProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/PrimeFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/RatInAMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/Sudoko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/stack/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/stack/EncodeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/ReverseStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/SortStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
