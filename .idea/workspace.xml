@@ -5,50 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91296402-95ff-4cf8-9251-3d375f957306" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/dpontree/DiameterOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/dpontree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/dpontree/NodeDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/dpontree/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/LongestRepeatingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/MinNoOfDeletionToMakePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/MinNoOfInsertionAndDeletionToMakeAToB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/MinNoOfInsertionToMakePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/PrintLongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/PrintLongestCommonSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/PrintShortestCommonSuperSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/ShortestCommonSuperSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/SubsequencePatternMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/zerooneknapsack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/zerooneknapsack/ZeroOneKnapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/greedyproblem/JumpOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/greedyproblem/JumpThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/greedyproblem/JumpTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/lambdasstreams/ProblemOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/lambdasstreams/interfaceExample/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/AllPermutationII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/CombinationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/Combinatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/Subset1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/SubsetII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/binarysearch/FindSmallestElementInSortedRotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/interview/EmployeeOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/interview/StrinConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/AccoiliteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/RUnPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/linklist/WalletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/NQueenProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/RatInAMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/recursion/Sudoko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/stack/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/code/stack/EncodeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS&amp;Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DS&amp;Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/DynamicProgramming/LCS/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/DynamicProgramming/LCS/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/LongestCommonSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/DynamicProgramming/LCS/LongestPalindromicSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/lcs/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/DynamicProgramming/MCM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/dynamicprogramming/mcm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Graph/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/graph/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Graph/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/graph/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Graph/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/graph/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/DeleteKthElementFromStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/DeleteKthElementFromStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/ReverseANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/ReverseANumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/ReverseStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/SortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/code/Recursion/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/ReverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/recursion/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/recursion/SortStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -77,53 +55,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllPermutation.executor": "Run",
-    "Application.AllPermutationII.executor": "Run",
-    "Application.CombinationSum.executor": "Run",
-    "Application.CombinationSumII.executor": "Run",
-    "Application.Combinatorial.executor": "Run",
-    "Application.Interface1 (1).executor": "Run",
-    "Application.Interface1 (2).executor": "Run",
-    "Application.Interface1 (3).executor": "Run",
-    "Application.Interface1 (4).executor": "Run",
-    "Application.Interface1 (5).executor": "Run",
-    "Application.Interface1.executor": "Run",
-    "Application.LongestCommonSubsequence.executor": "Run",
-    "Application.LongestCommonSubstring.executor": "Run",
-    "Application.LongestPalindromicSubsequence.executor": "Run",
-    "Application.LongestPalindromicSubstring.executor": "Run",
-    "Application.LongestRepeatingSubsequence.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MinNoOfDeletionToMakePalindrome.executor": "Run",
-    "Application.MinNoOfInsertionAndDeletionToMakeAToB.executor": "Run",
-    "Application.MinNoOfInsertionToMakePalindrome.executor": "Run",
-    "Application.PrintLongestCommonSubsequence.executor": "Run",
-    "Application.PrintLongestCommonSubstring.executor": "Run",
-    "Application.PrintShortestCommonSuperSequence.executor": "Run",
-    "Application.ShortestCommonSuperSequence.executor": "Run",
-    "Application.SubsequencePatternMatching.executor": "Run",
-    "Application.Subset1.executor": "Run",
-    "Application.SubsetII.executor": "Run",
-    "Application.ZeroOneKnapsack.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Programming/DynamicProgramming/DS&Algorithm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AccoiliteTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Acoolite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllPermutationII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSumII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Combinatorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideTwoInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSmallestElementInSortedRotArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestPalindromicSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestPalindromicSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestRepeatingSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinNoOfDeletionToMakePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinNoOfInsertionAndDeletionToMakeAToB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinNoOfInsertionToMakePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NQueenProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromePartitioning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintLongestCommonSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintLongestCommonSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintShortestCommonSuperSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RatInAMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortestCommonSuperSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortByLastName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrinConvert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsequencePatternMatching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subset1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sudoko.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashAndEqual.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeroOneKnapsack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.code.linklist.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testFunctional (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.testFunctional.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Programming/StreamsAndLambdas/java8&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;bito.co.bito.intellij.config.SettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PalindromePartitioning">
-    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.recursion.CombinationSumII" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.code.stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CommonElement">
+    <configuration name="CommonElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.interview.CommonElement" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.recursion.*" />
+          <option name="PATTERN" value="com.code.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Combinatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.recursion.Combinatorial" />
+    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.stack.DecodeString" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.recursion.*" />
+          <option name="PATTERN" value="com.code.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.lambdasstreams.interfaceExample.Interface1" />
+    <configuration name="DivideTwoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.stack.DivideTwoInteger" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.lambdasstreams.interfaceExample.*" />
+          <option name="PATTERN" value="com.code.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.recursion.PalindromePartitioning" />
+    <configuration name="FindSmallestElementInSortedRotArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.binarysearch.FindSmallestElementInSortedRotArray" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.recursion.*" />
+          <option name="PATTERN" value="com.code.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,25 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subset1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.recursion.Subset1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.lambdasstreams.Main" />
       <module name="DS&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.code.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsetII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.code.recursion.SubsetII" />
-      <module name="DS&amp;Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.code.recursion.*" />
+          <option name="PATTERN" value="com.code.lambdasstreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromePartitioning" />
-        <item itemvalue="Application.Combinatorial" />
-        <item itemvalue="Application.Subset1" />
-        <item itemvalue="Application.SubsetII" />
-        <item itemvalue="Application.CombinationSumII" />
+        <item itemvalue="Application.CommonElement" />
+        <item itemvalue="Application.DecodeString" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FindSmallestElementInSortedRotArray" />
+        <item itemvalue="Application.DivideTwoInteger" />
       </list>
     </recent_temporary>
   </component>

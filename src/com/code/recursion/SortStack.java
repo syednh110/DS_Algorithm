@@ -20,4 +20,5 @@ public class SortStack {
         insertElementInStack(stack,temp);
         stack.push(val);
     }
+
 }

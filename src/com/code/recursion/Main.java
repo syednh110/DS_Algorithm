@@ -26,8 +26,8 @@ public class Main {
         System.out.println("Array After Sorting  ----------");
         int arr[] = {5,8,1,4,7,2};
         int size = arr.length;
-        SortArray sortArray = new SortArray();
-        sortArray.getSortedArray(arr,size);
+//        com.code.Recursion.SortArray sortArray = new com.code.Recursion.SortArray();
+//        sortArray.getSortedStack(arr,size);
         for (Integer x:arr){
             System.out.print(" "+x);
         }
